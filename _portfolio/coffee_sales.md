@@ -1,16 +1,14 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Coffee sales analysis - interactive dashboard with Google Spreadsheets"
+excerpt: "Analysing revenue and number of orders by coffee types and customer characteristics."
 header:
-  image: /assets/images/test1.jpg
-  teaser: /assets/images/test1.jpg
+  image: /assets/images/coffee_head.jpg
+  teaser: /assets/images/coffee_head.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/test1.jpg
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Data Analyst"
+  - title: "Technologies"
+    text: "Google Spreadsheets"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/test1.jpg
