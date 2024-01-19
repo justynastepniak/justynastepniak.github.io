@@ -9,16 +9,6 @@ sidebar:
     text: "Data Analyst"
   - title: "Technologies"
     text: "R"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/test2.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/test2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/test2.jpg
-    alt: "placeholder image 3"
 ---
 
 ##### [See the project on Kaggle]([https://link-url-here.org](https://www.kaggle.com/code/justynastpniak/bellabeat-case-study-in-r/notebook))
@@ -29,12 +19,4 @@ This case study, part of the Google "Data Analytics Professional Certificate" ca
 
 #### Links
 
-Kaggle | GitHub
-
-
-
-
-
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
+[Kaggle]([https://link-url-here.org](https://www.kaggle.com/code/justynastpniak/bellabeat-case-study-in-r/notebook)) | GitHub
