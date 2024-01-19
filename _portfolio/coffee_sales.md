@@ -17,4 +17,5 @@ A purpose of this project was to create an interactive dashboard, a tool to moni
 
 ##### Links
 
-GitHub | Google Spreadsheets
+GitHub 
+Google Spreadsheets
