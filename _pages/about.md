@@ -5,9 +5,9 @@ layout: splash
 ---
 ### About me
 
-I am a data analyst with background in graphic design & quality assurance.
-I acquired expertise through independent learning and hands-on experience. My knowledge is largely self-directed, gained through a combination of online courses, practical application, and continuous exploration.
-When it comes to working with data, I bring to the table a knack for **storytelling**, **visualisation** and **translating complex datasets** into compelling narratives, making the information accessible and meaningful to a wider audience.
+I am a data analyst with a background in graphic design and quality assurance. My expertise has been acquired through independent learning and hands-on experience, incorporating a blend of online courses, practical application, and continuous exploration.
+
+In the field of data, my strengths lie in **storytelling**, **visualization**, and **effectively translating intricate datasets** into meaningful narratives, **making information accessible to a wide audience**.
 
 ##### Technology toolbox
 
@@ -18,3 +18,5 @@ MS Excel, Google Spreadsheets, SQL, Python, Tableau
 Polish, English, German
 
 ##### Credentials
+
+Google Data Analytics Certificate
