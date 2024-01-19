@@ -8,4 +8,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Spreadsheets collection
+Get Google Spreadsheet templates, free for personal use (copy to your drive to use):
