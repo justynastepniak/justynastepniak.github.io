@@ -1,4 +1,5 @@
 ---
+author_profile: false
 title: Portfolio
 layout: collection
 permalink: /portfolio/
