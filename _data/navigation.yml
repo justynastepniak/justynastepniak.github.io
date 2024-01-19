@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "About me"
-    url: /about/
+    url: /_pages/about.html/
   - title: "Projects"
-    url: /projects/
+    url: /_pages/projects.html/
   - title: "Contact"
-    url: /contact/
+    url: /_pages/contact.html/
