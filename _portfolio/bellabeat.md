@@ -21,8 +21,20 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+##### [See the project on Kaggle]([https://link-url-here.org](https://www.kaggle.com/code/justynastpniak/bellabeat-case-study-in-r/notebook))
+
+### Summary
+
+This case study, part of the Google "Data Analytics Professional Certificate" capstone project, focuses on Bellabeat, a successful health-focused products manufacturer for women. The goal is to answer key business questions and inform Bellabeat's marketing strategy by analyzing smart device usage data. Bellabeat's diverse product line includes the Bellabeat app, Leaf (wellness tracker), Time (wellness watch), Spring (smart water bottle), and a subscription-based membership program. The marketing analytics team aims to identify trends in smart device usage, apply these trends to Bellabeat customers, and influence the company's marketing strategy accordingly. The primary data source is the FitBit Fitness Tracker Data, obtained through a 2016 survey on Amazon Mechanical Turk, containing information on physical activity, heart rate, and sleep monitoring from 30 respondents. However, the dataset has limitations, such as a small sample size, lack of demographic information, and outdated data. Despite these constraints, the case study seeks to derive valuable insights to refine Bellabeat's marketing strategy and uncover potential market opportunities.
+
+#### Links
+
+Kaggle | GitHub
+
+
+
+
+
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
