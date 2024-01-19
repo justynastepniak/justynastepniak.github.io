@@ -2,8 +2,8 @@
 title: "Bellabeat - case study in R"
 excerpt: "Capstone project of the Google 'Data Analytics Professional Certificate'"
 header:
-  image: /assets/images/test2.jpg
-  teaser: /assets/images/test2.jpg
+  image: /assets/images/bellabeat_head.jpg
+  teaser: /assets/images/bellabeat_head.jpg
 sidebar:
   - title: "Role"
     text: "Data Analyst"
