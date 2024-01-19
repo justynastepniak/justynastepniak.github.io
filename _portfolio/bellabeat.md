@@ -1,5 +1,5 @@
 ---
-title: "Bellabeat - case study in R"
+title: "Bellabeat | analysing trends in smart device usage | case study in R"
 excerpt: "Capstone project of the Google 'Data Analytics Professional Certificate'"
 header:
   image: /assets/images/bellabeat_head.jpg
