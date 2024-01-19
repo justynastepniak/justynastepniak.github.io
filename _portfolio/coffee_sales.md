@@ -11,6 +11,10 @@ sidebar:
     text: "Google Spreadsheets"
 ---
 
-### Introduction
+### Summary
 
 A purpose of this project was to create an interactive dashboard, a tool to monitor and filter through sales data. The result was achieved through the use of pivot tables, charts, and QUERY function.
+
+##### Links
+
+GitHub | Google Spreadsheets
