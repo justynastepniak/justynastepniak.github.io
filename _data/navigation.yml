@@ -3,6 +3,6 @@ main:
   - title: "About me"
     url: /_pages/about.html/
   - title: "Projects"
-    url: /_pages/projects.html/
+    url: /projects.html/
   - title: "Contact"
-    url: /_pages/contact.html/
+    url: /contact.html/
