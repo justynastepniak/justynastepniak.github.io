@@ -19,4 +19,5 @@ This case study, part of the Google "Data Analytics Professional Certificate" ca
 
 #### Links
 
-[Kaggle]([https://link-url-here.org](https://www.kaggle.com/code/justynastpniak/bellabeat-case-study-in-r/notebook)) | GitHub
+[Kaggle]([https://link-url-here.org](https://www.kaggle.com/code/justynastpniak/bellabeat-case-study-in-r/notebook))  
+GitHub
