@@ -1,16 +1,14 @@
 ---
-title: "test 2 "
-excerpt: "test 2 test 2 test 2 test 2 test 2 test 2 test 2 test 2 test 2 test 2 "
+title: "Bellabeat - case study in R"
+excerpt: "Capstone project of the Google 'Data Analytics Professional Certificate'"
 header:
   image: /assets/images/test2.jpg
   teaser: /assets/images/test2.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/test2.jpg
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Data Analyst"
+  - title: "Technologies"
+    text: "R"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/test2.jpg
