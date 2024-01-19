@@ -3,7 +3,7 @@ permalink: /about/
 author_profile: false
 layout: splash
 ---
-### About me
+## About me
 
 I am a data analyst with a background in graphic design and quality assurance. My expertise has been acquired through independent learning and hands-on experience, incorporating a blend of online courses, practical application, and continuous exploration.
 
