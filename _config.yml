@@ -157,6 +157,7 @@ include:
   - .htaccess
   - _pages
   - _site
+  - _spreadsheets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
