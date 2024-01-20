@@ -31,5 +31,4 @@ This Google Sheets based personal financial planner includes:
 
 {% include gallery %}
 
-**** Get it on Google Drive
-
+##### [Get it on Google Drive / € version](https://docs.google.com/spreadsheets/d/1MvS3qMpuqLYmTJI4DzlZOEg2_h_ITqqDJftSZEeyXAM/edit?usp=sharing)
