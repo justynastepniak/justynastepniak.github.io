@@ -7,7 +7,7 @@ header:
   
 sidebar:
   - title: "Version"
-    text: "1.0
+    text: "1.0"
   - title: "Last update"
     text: "20th Jan 2024"
     
