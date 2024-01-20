@@ -12,15 +12,15 @@ sidebar:
     text: "20th Jan 2024"
     
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/test2.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/test2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/test2.jpg
-    alt: "placeholder image 3"
+  - url: 
+    image_path: /assets/images/budget_sample1.jpg
+    alt: "sample image 1"
+  - url: 
+    image_path: /assets/images/budget_sample2.jpg
+    alt: "sample image 2"
+  - url: 
+    image_path: /assets/images/budget_sample2.jpg
+    alt: "sample image 3"
 ---
 
 This Google Sheets based personal financial planner includes:
@@ -29,7 +29,7 @@ This Google Sheets based personal financial planner includes:
 - automatic summary of income and expenses
 - a visual dashboard with the most important statistics
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="A sample gallery." %}
 
 **** Get it on Google Drive
 
