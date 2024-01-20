@@ -12,14 +12,14 @@ sidebar:
     text: "20th Jan 2024"
     
 gallery:
-  - url: 
+  - url: /assets/images/budget_sample1.jpg
     image_path: /assets/images/budget_sample1.jpg
     alt: "sample image 1"
-  - url: 
+  - url: /assets/images/budget_sample2.jpg
     image_path: /assets/images/budget_sample2.jpg
     alt: "sample image 2"
-  - url: 
-    image_path: /assets/images/budget_sample2.jpg
+  - url: /assets/images/budget_sample3.jpg
+    image_path: /assets/images/budget_sample3.jpg
     alt: "sample image 3"
 ---
 
@@ -29,7 +29,7 @@ This Google Sheets based personal financial planner includes:
 - automatic summary of income and expenses
 - a visual dashboard with the most important statistics
 
-{% include gallery caption="A sample gallery." %}
+{% include gallery %}
 
 **** Get it on Google Drive
 
