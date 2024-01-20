@@ -1,16 +1,9 @@
 ---
-title: "test 2 "
-excerpt: "test 2 test 2 test 2 test 2 test 2 test 2 test 2 test 2 test 2 test 2 "
+title: "Annual budget planner & savings monitor"
+excerpt: "A tool for personal financial planning, month by month."
 header:
-  image: /assets/images/test2.jpg
-  teaser: /assets/images/test2.jpg
-sidebar:
-  - title: "Role"
-    image: /assets/images/test2.jpg
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  image: /assets/images/budget_hd.jpg
+  teaser: /assets/images/budget_hd.jpg
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/test2.jpg
