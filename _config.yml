@@ -313,7 +313,7 @@ defaults:
   # _spreadsheets
   - scope:
       path: ""
-      type: portfolio
+      type: spreadsheets
     values:
       layout: single
       author_profile: false
