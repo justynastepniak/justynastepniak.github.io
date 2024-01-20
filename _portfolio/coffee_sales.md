@@ -15,7 +15,7 @@ sidebar:
 
 A purpose of this project was to create an interactive dashboard, a tool to monitor and filter through sales data. The result was achieved through the use of pivot tables, charts, and QUERY function.
 
-##### Links
+### Links
 
 [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1qgGV_1vGhVBXiuy6tA5lOI4oFPvejNhQ/edit?usp=sharing&ouid=108723325419475143519&rtpof=true&sd=true)
 [GitHub](https://github.com/justynastepniak/portfolio_projects/tree/main/coffee_sales)
