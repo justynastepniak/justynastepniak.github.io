@@ -135,7 +135,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/justynastepniak"
-
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/justyna-st%C4%99pniak-b465851b2/"
 
 # Reading Files
 include:
