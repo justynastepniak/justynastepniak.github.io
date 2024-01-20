@@ -3,9 +3,5 @@ permalink: /contact/
 author_profile: false
 layout: splash
 ---
-
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
+<br><br>
+Don't hesitate to contact me at just.stepniak(at)gmail.com
