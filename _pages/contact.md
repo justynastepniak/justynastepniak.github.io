@@ -2,8 +2,6 @@
 permalink: /contact/
 author_profile: false
 layout: splash
----
-
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
@@ -17,3 +15,4 @@ layout: splash
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
+---
