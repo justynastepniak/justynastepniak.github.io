@@ -29,5 +29,7 @@ This Google Sheets based personal financial planner includes:
 - automatic summary of income and expenses
 - a visual dashboard with the most important statistics
 
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
+
 **** Get it on Google Drive
 
