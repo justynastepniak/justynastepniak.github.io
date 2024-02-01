@@ -11,7 +11,7 @@ In the field of data, my strengths lie in **storytelling**, **visualization**, a
 
 ### Technology toolbox
 
-MS Excel, Google Spreadsheets, SQL, Python, Tableau
+MS Excel, Google Spreadsheets, SQL, Tableau
 
 ### Credentials
 
