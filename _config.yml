@@ -138,6 +138,8 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/justyna-st%C4%99pniak-b465851b2/"
+    - label: "Tableau"
+      url: "https://public.tableau.com/app/profile/justyna.stepniak/vizzes"
 
 # Reading Files
 include:
