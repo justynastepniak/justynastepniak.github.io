@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     text: "Data Analyst"
   - title: "Technologies"
-    text: "Python"
+    text: "Python (pandas, matplotlib, seaborn, numpy, folium, scipy.stats)"
 ---
 
 
